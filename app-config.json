@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "enabled": true,
+
+  "ip_lookup": {
+    "provider": "ip2location",
+    "endpoint": "https://api.ip2location.io/?key=A50A41E2C526764C3B05843B7873BB64"
+  },
+
+  "allowed": {
+    "countries": ["ES","TR","GR","IT"],
+    "url": "https://clbanners7.com/_fETn8_gS_-1ontN9MC4McmNd7ZgqdRLk/16/"
+  },
+
+  "restricted": {
+    "mode": "PUZZLE",
+    "puzzle": {
+      "levels": 10,
+      "grid": { "rows": 7, "cols": 7 },
+      "secondsPerLevel": 30
+    },
+    "fallbackUrl": "https://clbanners7.com/_fETn8_gS_-1ontN9MC4McmNd7ZgqdRLk/15/"
+  }
+}
