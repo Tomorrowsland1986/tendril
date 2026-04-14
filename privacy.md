@@ -1,8 +1,8 @@
-Privacy Policy – Best10
+Privacy Policy – Best10 Tur
 
 Last updated: 14 April 2026
 
-This Privacy Policy describes how Best10 (the “App”) handles user data.
+This Privacy Policy describes how Best10 Tur (the “App”) handles user data.
 
 1. Developer Information
 
